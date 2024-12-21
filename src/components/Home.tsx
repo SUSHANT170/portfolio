@@ -83,8 +83,8 @@ const Home = () => {
           </a>
 
           <a
-            href="resume.pdf"
-            download="Sushant_Kumar_Resume.pdf"
+            href="Sushant_Kumar_SDE.pdf"
+            download="Sushant_Kumar_SDE.pdf"
             className="w-full sm:w-auto px-6 py-3 rounded-lg font-bold text-lg transition-colors"
             style={{
               backgroundColor: '#F3F4F6',
